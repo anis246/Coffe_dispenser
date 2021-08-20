@@ -4,3 +4,5 @@ PLA ABS
 
 cup right hand
 
+hand sensor say take cup
+

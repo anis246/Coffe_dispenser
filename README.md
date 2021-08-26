@@ -31,7 +31,7 @@ heat sink for driver
   
   </div>
 
-<h3 dir="rtl"> ملاحضات </h3>
+<h3 dir="rtl"> ملاحضات عامة </h3>
 
 <div dir="rtl">
   

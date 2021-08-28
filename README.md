@@ -14,6 +14,10 @@ can 3d printer do it
 
 heat sink for driver
 
+can add nozzle sensor to detect liquid level
+
+
+
 <h1 dir="rtl"> الوصف </h1>
 
 <div dir="rtl">

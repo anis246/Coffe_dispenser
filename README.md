@@ -1,23 +1,3 @@
-# Coffe_dispenser
-
-PLA ABS
-
-cup right hand
-
-hand sensor say take cup
-
-rotation angles can be secured physically but after prototype
-
-flow sensor for pouring calibration
-
-can 3d printer do it
-
-heat sink for driver
-
-can add nozzle sensor to detect liquid level
-
-
-
 <h1 dir="rtl"> الوصف </h1>
 
 <div dir="rtl">
@@ -45,6 +25,7 @@ can add nozzle sensor to detect liquid level
 - قد يلاحظ في التصميم المبالغة في سمك بعض الاجزاء بحكم اني لم اعاين من قبل مدى صلابة خامات الطباعة ثلاثية الابعاد
 - تم تغيير بعض الأبعاد المطلوبة في المحاضرة بما يوافق التصميم المقترح
 - سيتم التفصيل في بعض جزئيات التصميم تاليا 
+- لم يتم مراعاة حلول للتهوية و تنظيم الحرارة حاليا لكن لا يجب نسيانها كوننا نتعامل مع  سوائل بدرجة حرارة مرتفعة
   
   </div>
 
@@ -131,6 +112,14 @@ can add nozzle sensor to detect liquid level
 - التصميم مستوحى أساسا من الزلاجات الكهربائية "hoverboards" و حتى المحركات المستعملة من نفس الفئة
 - تم اضافة عجلتين خلفيتين لدعم التوازن
 - تبقى الجزئيات الخاصة بتثبيت المحركات يمكن تصميمها عند الحاجة
+- يجب الاخد بعين الاعتبار ترك مساحة خاصة بالمشتتات الكهربائية
+
+  </div>
+
+<h3 dir="rtl"> ملاحظات على تصميم الأيدي الخاصة بحمل الصينية </h3>
+<div dir="rtl">
+
+- تثبيت الصينية يعتمد على 4 أقراص مغناطيسية تحت طبقة من المطاط تمنع الانزلاق، اثنان منها على الذراعين و اثنان على اليدين
 
   </div>
 
